@@ -9,7 +9,6 @@ redirects = []
 [build]
 publish = "/root/.openclaw/workspace/demos/taylor-electric-ac"
 publishOrigin = "default"
-base = "/root/.openclaw/workspace/demos/taylor-electric-ac"
 
 [build.environment]
 
